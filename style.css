@@ -356,7 +356,8 @@ input, textarea {
   transition: 0.4s ease;
 
   min-height: 320px; /* balanced height */
-  width: 80%;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 /* 🔥 TEAL TOP GRADIENT */
